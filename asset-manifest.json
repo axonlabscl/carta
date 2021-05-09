@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/carta/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/carta/static/js/main.e6cd0385.chunk.js",
+    "main.js.map": "/carta/static/js/main.e6cd0385.chunk.js.map",
+    "runtime-main.js": "/carta/static/js/runtime-main.1950284f.js",
+    "runtime-main.js.map": "/carta/static/js/runtime-main.1950284f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/carta/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56d21552.chunk.js": "/carta/static/js/2.56d21552.chunk.js",
+    "static/js/2.56d21552.chunk.js.map": "/carta/static/js/2.56d21552.chunk.js.map",
+    "static/js/3.ff8d7722.chunk.js": "/carta/static/js/3.ff8d7722.chunk.js",
+    "static/js/3.ff8d7722.chunk.js.map": "/carta/static/js/3.ff8d7722.chunk.js.map",
+    "index.html": "/carta/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/carta/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/carta/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.56d21552.chunk.js.LICENSE.txt": "/carta/static/js/2.56d21552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1950284f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56d21552.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e6cd0385.chunk.js"
+  ]
+}
